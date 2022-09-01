@@ -1,0 +1,24 @@
+access modifiers 
+
+class , method , variable, constructor.
+abstract class no obj
+final class no extends
+
+CLASS 
+	FINAL    cannot be inherited
+	ABSTRACT
+	PUBLIC
+
+METHOD
+	ABSTRACT
+	PUBLIC
+	PRIVATE
+	FINAL
+	STRICTFP 	IT IS KEPT TO BE FLOATPPOINT TO BE FIXED IN EVERY SOUGHT
+	STATIC
+
+VARIABLE
+	PUBLIC
+	PRIVATE
+	FINAL ==Changes are not allowed where variable is FINAL
+	STATIC ==Changes are allowed where variable is STATIC
