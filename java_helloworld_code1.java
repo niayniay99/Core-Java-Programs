@@ -1,4 +1,4 @@
-public class Practical1
+public class java_helloworld_code1
 {
 	public static void main(String[]args)
 	{
